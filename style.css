@@ -1,0 +1,1020 @@
+/* common css start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+*{
+    text-decoration: none;
+}
+ /* common css end  */
+ /* css code start  */
+ body{
+    background-color: aqua;
+ }
+.main{
+    height: 620px;
+    width: 620px;
+    background-color: rgb(201, 173, 230);
+    position: relative;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 1%;
+}
+ .margin{
+    height: 600px;
+    width: 600px;
+    background-color: rgb(201, 173, 230);
+    position: absolute;
+    left:19px;
+    border: 1px solid black;
+ }
+ /*side number list start  */
+ .onee{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 0px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .onee h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .twoo{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 75px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .twoo h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .threee{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 150px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .threee h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .foure{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 225px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .foure h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .fivee{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 300px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .fivee h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .sixx{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 375px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .sixx h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .sevenn{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 450px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .sevenn h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .eightt{
+    height: 75px;
+    width: 20px;
+    position: absolute;
+    top: 525px;
+    left:0px;
+    border: 0.5px solid black;
+ }
+ .eightt h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ /* bottom text part start  */
+ .onea{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:20px;
+    border: 0.5px solid black;
+ }
+ .onea h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .twob{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:95px;
+    border: 0.5px solid black;
+ }
+ .twob h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .threec{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:170px;
+    border: 0.5px solid black;
+ }
+ .threec h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .fourd{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:245px;
+    border: 0.5px solid black;
+ }
+ .fourd h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .fivef{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:320px;
+    border: 0.5px solid black;
+ }
+ .fivef h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .sixg{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:395px;
+    border: 0.5px solid black;
+ }
+ .sixg h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .sevenh{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:470px;
+    border: 0.5px solid black;
+ }
+ .sevenh h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .eighti{
+    height: 20px;
+    width: 75px;
+    position: absolute;
+    top: 600px;
+    left:545px;
+    border: 0.5px solid black;
+    border-radius: 15%;
+ }
+ .eighti h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ 
+ /* First Row start  */
+ .one{
+    height:75px;
+    width:75px;
+    background-color: skyblue;
+    position: absolute;
+    top:0;
+    left: 0;
+    
+ }
+ .one h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .two{
+    height:75px;
+    width:75px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 75px;
+ }
+ .two h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .three{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:0;
+    left: 150px;
+ }
+ .three h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .four{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 225px;
+ }
+ .four h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .five{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:0;
+    left: 300px;
+ }
+ .five h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .six{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 375px;
+ }
+ .six h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .seven{height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:0;
+    left: 450px;
+}
+.seven h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
+ .eight{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    left: 525px;
+ }
+ .eight h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ /* second row start */
+
+ .nine{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:75px;
+    left: 0px;
+ }
+ .nine h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .ten{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:75px;
+    left: 75px;
+ }
+ .ten h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .eleven{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:75px;
+    left: 150px;
+ }
+ .eleven h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .twelve{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:75px;
+    left: 225px;
+ }
+ .twelve h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .thirteen{ 
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:75px;
+    left: 300px;
+ }
+ .thirteen h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .fourteen{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:75px;
+    left: 375px;
+ }
+ .fourteen h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .fiftenn{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:75px;
+    left: 450px;
+ }
+ .fiftenn h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ .sixtenn{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:75px;
+    left: 525px;
+ }
+ .sixtenn h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+ }
+ /* third row start  */
+ .seventeen{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:150px;
+    left: px;
+ }
+ .nineteen{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:150px;
+    left: 75px;
+ }
+ .twenty{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:150px;
+    left: 150px;
+ }
+.twenty_one{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:150px;
+    left: 225px;
+}
+.twenty_two{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:150px;
+    left: 300px;
+}
+.twenty_three{
+    height: 75px;
+    width: 75px;
+    background-color:blue;
+    position: absolute;
+    top:150px;
+    left: 375px;
+}
+.twenty_four{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:150px;
+    left: 450px;
+}
+.twenty_five{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:150px;
+    left: 525px;
+}
+/* forth row start  */
+.twenty_six{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top: 225px;;
+    left: 0px;
+}
+.twenty_seven{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:225px;
+    left: 75px;
+}
+.twenty_eight{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top: 225px;;
+    left: 150px;
+}
+.twenty_nine{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top: 225px;
+    left: 225px;
+}
+.Thirty{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top: 225px;
+    left: 300px;
+}
+.Thirty_one{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top: 225px;
+    left: 375px;
+}
+.Thirty_two{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top: 225px;
+    left: 450px;
+}
+.Thirty_three{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top: 225px;
+    left: 525px;
+}
+/* fifth row start  */
+.Thirty_four{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top: 300px;
+    left: 0px;
+}
+.Thirty_five{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:300px;
+    left: 75px;
+}
+.Thirty_six{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:300px;
+    left: 150px;
+}
+.Thirty_seven{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:300px;
+    left: 225px;
+}
+.Thirty_eight{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:300px;
+    left: 300px;
+}
+.Thirty_nine{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:300px;
+    left: 375px;
+}
+.fourty{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:300px;
+    left: 450px;
+}
+.fourty_one{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:300px;
+    left: 525px;
+}
+/* six row start  */
+.fourty_two{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:375px;
+    left: 0px;
+}
+.fourty_three{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:375px;
+    left: 75px;
+}
+.fourty_four{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:375px;
+    left: 150px;
+}
+.fourty_five{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:375px;
+    left: 225px;
+}
+.fourty_six{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:375px;
+    left: 300px;
+}
+.fourty_seven{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:375px;
+    left: 375px;
+}
+.fourty_eight{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:375px;
+    left: 450px;
+}
+.fourty_nine{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:375px;
+    left: 525px;
+}
+/* sevent row start  */
+.fifty{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:450px;
+    left: 0px;
+}
+.fifty h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+    
+}
+.fifty_one{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:450px;
+    left: 75px;
+}
+.fifty_one h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_two{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:450px;
+    left: 150px;
+}
+.fifty_two h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_three{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:450px;
+    left: 225px;
+}
+.fifty_three h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_four{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:450px;
+    left: 300px;
+}
+.fifty_four h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_five{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:450px;
+    left: 375px;
+}
+.fifty_five h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_six{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:450px;
+    left: 450px;
+}
+.fifty_six h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_seven{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:450px;
+    left: 525px;
+}
+.fifty_seven h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+/* eight row start  */
+.fifty_eight{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:525px;
+    left: 0px;
+}
+.fifty_eight h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.fifty_nine{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:525px;
+    left: 75px;
+}
+.fifty_nine h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:525px;
+    left: 150px;
+}
+.sixty h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty_one{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:525px;
+    left: 225px;
+}
+.sixty_one h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty_two{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:525px;
+    left: 300px;
+}
+.sixty_two h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty_three{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:525px;
+    left: 375px;
+}
+.sixty_three h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty_four{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    position: absolute;
+    top:525px;
+    left: 450px;
+}
+.sixty_four h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
+.sixty_five{
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: absolute;
+    top:525px;
+    left: 525px;
+}
+.sixty_five h3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: rgba(255, 255, 0, 0.855);
+}
